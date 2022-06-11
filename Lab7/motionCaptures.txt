@@ -1,0 +1,148 @@
+Rest Capture #1
+Start Index: 0 End Index 16
+Start Time: 0.050000 Stop Time: 0.850000
+-------------------------------------------------------
+Motion Capture #1
+Start Index: 16 End Index 55
+Start Time: 0.850000 Stop Time: 2.800000
+Total Angular Rotation
+Yaw: -0.025806	Pitch: -0.015426	Roll: -0.002665
+Total Linear Distance
+X: 0.332454	Y: -0.270114	Z: -18.433036
+-------------------------------------------------------
+Rest Capture #2
+Start Index: 55 End Index 111
+Start Time: 2.800000 Stop Time: 5.600000
+-------------------------------------------------------
+Motion Capture #2
+Start Index: 111 End Index 148
+Start Time: 5.600000 Stop Time: 7.450000
+Total Angular Rotation
+Yaw: 0.021890	Pitch: 0.002341	Roll: -0.022780
+Total Linear Distance
+X: 0.065239	Y: 0.599911	Z: -16.593982
+-------------------------------------------------------
+Rest Capture #3
+Start Index: 148 End Index 208
+Start Time: 7.450000 Stop Time: 10.450000
+-------------------------------------------------------
+Motion Capture #3
+Start Index: 208 End Index 244
+Start Time: 10.450000 Stop Time: 12.250000
+Total Angular Rotation
+Yaw: -0.027254	Pitch: -0.004043	Roll: -0.013407
+Total Linear Distance
+X: -0.210999	Y: 0.122120	Z: -15.691186
+-------------------------------------------------------
+Rest Capture #4
+Start Index: 244 End Index 288
+Start Time: 12.250000 Stop Time: 14.450000
+-------------------------------------------------------
+Motion Capture #4
+Start Index: 288 End Index 335
+Start Time: 14.450000 Stop Time: 16.800000
+Total Angular Rotation
+Yaw: 0.041645	Pitch: -0.004198	Roll: 0.001910
+Total Linear Distance
+X: 0.752195	Y: -0.057063	Z: -26.751672
+-------------------------------------------------------
+Rest Capture #5
+Start Index: 335 End Index 380
+Start Time: 16.800000 Stop Time: 19.050000
+-------------------------------------------------------
+Motion Capture #5
+Start Index: 380 End Index 413
+Start Time: 19.050000 Stop Time: 20.700000
+Total Angular Rotation
+Yaw: -0.077094	Pitch: 0.161062	Roll: 0.100231
+Total Linear Distance
+X: 0.658727	Y: -0.249014	Z: -13.609347
+-------------------------------------------------------
+Rest Capture #6
+Start Index: 413 End Index 450
+Start Time: 20.700000 Stop Time: 22.550000
+-------------------------------------------------------
+Motion Capture #6
+Start Index: 450 End Index 493
+Start Time: 22.550000 Stop Time: 24.700000
+Total Angular Rotation
+Yaw: 0.059443	Pitch: -0.174052	Roll: -0.169645
+Total Linear Distance
+X: 3.515997	Y: -1.609128	Z: -21.563478
+-------------------------------------------------------
+Rest Capture #7
+Start Index: 493 End Index 624
+Start Time: 24.700000 Stop Time: 31.250000
+-------------------------------------------------------
+Motion Capture #7
+Start Index: 624 End Index 669
+Start Time: 31.250000 Stop Time: 33.500000
+Total Angular Rotation
+Yaw: 1.565442	Pitch: 0.045036	Roll: 0.000746
+Total Linear Distance
+X: -0.184685	Y: -0.126583	Z: -24.552960
+-------------------------------------------------------
+Rest Capture #8
+Start Index: 669 End Index 744
+Start Time: 33.500000 Stop Time: 37.250000
+-------------------------------------------------------
+Motion Capture #8
+Start Index: 744 End Index 781
+Start Time: 37.250000 Stop Time: 39.100000
+Total Angular Rotation
+Yaw: -1.541081	Pitch: -0.003728	Roll: -0.003706
+Total Linear Distance
+X: -0.133171	Y: 0.171140	Z: -16.699216
+-------------------------------------------------------
+Rest Capture #9
+Start Index: 781 End Index 856
+Start Time: 39.100000 Stop Time: 42.850000
+-------------------------------------------------------
+Motion Capture #9
+Start Index: 856 End Index 895
+Start Time: 42.850000 Stop Time: 44.800000
+Total Angular Rotation
+Yaw: -0.068740	Pitch: 1.599041	Roll: -0.089149
+Total Linear Distance
+X: -0.988567	Y: -7.752254	Z: -13.393858
+-------------------------------------------------------
+Rest Capture #10
+Start Index: 895 End Index 958
+Start Time: 44.800000 Stop Time: 47.950000
+-------------------------------------------------------
+Motion Capture #10
+Start Index: 958 End Index 997
+Start Time: 47.950000 Stop Time: 49.900000
+Total Angular Rotation
+Yaw: 0.053428	Pitch: -1.579072	Roll: 0.054047
+Total Linear Distance
+X: -0.746182	Y: -14.880055	Z: -6.106618
+-------------------------------------------------------
+Rest Capture #11
+Start Index: 997 End Index 1061
+Start Time: 49.900000 Stop Time: 53.100000
+-------------------------------------------------------
+Motion Capture #11
+Start Index: 1061 End Index 1094
+Start Time: 53.100000 Stop Time: 54.750000
+Total Angular Rotation
+Yaw: -0.072522	Pitch: 0.002492	Roll: 1.677755
+Total Linear Distance
+X: 5.564958	Y: -0.012442	Z: -9.746035
+-------------------------------------------------------
+Rest Capture #12
+Start Index: 1094 End Index 1161
+Start Time: 54.750000 Stop Time: 58.100000
+-------------------------------------------------------
+Motion Capture #12
+Start Index: 1161 End Index 1201
+Start Time: 58.100000 Stop Time: 60.100000
+Total Angular Rotation
+Yaw: 0.046706	Pitch: -0.037589	Roll: -1.610406
+Total Linear Distance
+X: 15.386304	Y: -0.021617	Z: -6.475731
+-------------------------------------------------------
+Rest Capture #13
+Start Index: 1201 End Index 1249
+Start Time: 60.100000 Stop Time: 62.500000
+-------------------------------------------------------
