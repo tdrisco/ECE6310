@@ -1,0 +1,25 @@
+﻿  main.c
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(310,34): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(329,31): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(356,31): warning C4113: 'void (__cdecl *)()' differs in parameter lists from '_beginthread_proc_type'
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(526,59): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(490,17): warning C4101: 'normalizedSobel': unreferenced local variable
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(603,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(595,61): warning C4101: 'normexternalE': unreferenced local variable
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(773,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(774,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(775,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(776,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(777,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(782,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(784,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(785,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(811,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(812,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(837,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(838,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(839,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(840,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(757,113): warning C4101: 'normexternalE': unreferenced local variable
+C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\main.c(1040,61): warning C4101: 'normexternalE': unreferenced local variable
+  plus.vcxproj -> C:\Users\timdriscoll\OneDrive - Clemson University\Documents\Clemson Masters\Fall 2021\ECE 6310\Final Project\plus-2019\Debug\plus.exe
